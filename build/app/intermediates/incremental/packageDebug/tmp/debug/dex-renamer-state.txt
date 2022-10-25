@@ -1,0 +1,4 @@
+#Tue Oct 25 15:40:10 IST 2022
+base.0=D\:\\IntelliJ Repository\\Flutter\\Flutter App 1\\flutter_application_1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
